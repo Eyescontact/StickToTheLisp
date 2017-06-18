@@ -1,0 +1,6 @@
+atom  
+list
+car 
+cdr
+con
+NULL?
